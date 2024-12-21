@@ -8,10 +8,10 @@ The design of the drone was inspired by DJI's Phantom. This project involves usi
 ## Software and Tools
 
 - **CAD Software**: 
-- [![Rhinoceros](https://img.shields.io/badge/Rhinoceros-02569B?style=for-the-badge)](https://www.rhino3d.com/)
+- [![Rhinoceros](https://img.shields.io/badge/Rhinoceros-000000,%23FF0000,%23B3B3B3?style=for-the-badge&logo=rhinoceros&logoColor=white)](https://www.rhino3d.com/)
 - [![Solid Edge](https://img.shields.io/badge/Solid--Edge-FFCC00?style=for-the-badge)](https://solidedge.siemens.com/)
 - **Parts Files**: 
-  - [![TraceParts](https://img.shields.io/badge/TraceParts-00CCCC?style=for-the-badge)](https://www.traceparts.com/)
+- [![TraceParts](https://img.shields.io/badge/TraceParts-00CCCC?style=for-the-badge)](https://www.traceparts.com/)
 
 ---
 
