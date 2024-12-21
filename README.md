@@ -8,10 +8,10 @@ The design of the drone was inspired by DJI's Phantom. This project involves usi
 ## Software and Tools
 
 - **CAD Software**: 
-  - [Rhinoceros](https://www.rhino3d.com/): Used for initial part modeling.
-  - [SolidEdge](https://solidedge.siemens.com/): Used for machining and assembly.
+- [![Rhinoceros](https://img.shields.io/badge/Rhinoceros-02569B?style=for-the-badge)](https://www.rhino3d.com/)
+- [![Solid Edge](https://img.shields.io/badge/Solid--Edge-FFCC00?style=for-the-badge)](https://solidedge.siemens.com/)
 - **Parts Files**: 
-  - [TraceParts](https://www.traceparts.com/): Source of .par files for various components.
+  - [![TraceParts](https://img.shields.io/badge/TraceParts-00CCCC?style=for-the-badge)](https://www.traceparts.com/)
 
 ---
 
