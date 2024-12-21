@@ -1,6 +1,7 @@
 # Drone Design Project
 <div align="center">
-  ![drone_github-removebg-preview](https://github.com/user-attachments/assets/a95379db-e176-476a-a5be-11cb66d709f3)
+  ![drone_github](https://github.com/user-attachments/assets/0ae89752-935b-41e7-b9cf-2481ac634b0d)
+
 </div>
 
 ## Overview
