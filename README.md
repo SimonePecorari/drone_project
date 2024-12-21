@@ -76,8 +76,5 @@ The brushless motor assembly was created using [SolidEdge](https://solidedge.sie
 - **CAD Design**: [Rhinoceros](https://www.rhino3d.com/) and [SolidEdge](https://solidedge.siemens.com/)
 - **Parts Source**: [TraceParts](https://www.traceparts.com/)
 
-## Videos
-[Cinematica del Motore Brushless](Motore%20Brushless.wmv)
-[Assemblaggio del Drone](DRONE.wmv)
 
 
