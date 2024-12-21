@@ -3,6 +3,7 @@
   <img src="https://github.com/user-attachments/assets/7c46fe48-da13-4843-9efc-c332586f53af" alt="drone_github" width="400">
 </div>
 
+![drone_github-removebg-preview](https://github.com/user-attachments/assets/1a10327a-7e36-4e8f-be5d-2472cc27b583)
 
 ## Overview
 The design of the drone was inspired by DJI's Phantom. This project involves using CAD software for modeling and assembly, along with components sourced from [TraceParts](https://www.traceparts.com/). The workflow includes designing key parts, importing models, and machining them to create the final assembly.
