@@ -14,10 +14,10 @@ The design of the drone was inspired by DJI's Phantom. This project involves usi
     <img src="https://img.shields.io/badge/Rhinoceros-%23FF0000?style=for-the-badge&logo=rhinoceros&logoColor=white" alt="Rhinoceros">
   </a>
 - <a href="https://solidedge.siemens.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Solid--Edge-FFCC00?style=for-the-badge&logo=siemens&logoColor=white" alt="Solid Edge">
+    <img src="https://img.shields.io/badge/Solid--Edge-00CCCC?style=for-the-badge&logo=siemens&logoColor=white" alt="Solid Edge">
   </a>
 - <a href="https://www.traceparts.com/" target="_blank">
-    <img src="https://img.shields.io/badge/TraceParts-00CCCC?style=for-the-badge&logo=traceparts&logoColor=white" alt="TraceParts">
+    <img src="https://img.shields.io/badge/TraceParts-33FF99?style=for-the-badge&logo=traceparts&logoColor=white" alt="TraceParts">
   </a>
 
 
